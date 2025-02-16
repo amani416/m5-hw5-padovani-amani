@@ -50,14 +50,14 @@ nav a {
 }
 
 main {
-    background-color: lightgrey;
+    background-color: rgb(232, 232, 232);
     float: left;
     width: 70%;
     padding: 20px 25px 40px 25px;
 }
 
 aside{
-    background-color: aquamarine;
+    background-color: rgb(205, 172, 202);
     float: right;
     width: 20%;
     padding: 20px;
