@@ -20,6 +20,11 @@ h1{
     color: aliceblue;
 }
 
+p{
+    margin: 15px 0;
+    line-height: 120%;
+}
+
 nav {
     float: right;
 }
