@@ -41,6 +41,10 @@ nav a {
     text-decoration: none;
 }
 
+nav a {
+    text-decoration: underline;
+}
+
 main {
     background-color: lightgrey;
     float: left;
