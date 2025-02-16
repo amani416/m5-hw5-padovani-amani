@@ -31,3 +31,31 @@ nav a {
     margin-right: 20px;
     text-decoration: none;
 }
+
+main {
+    background-color: lightgrey;
+    float: right;
+    width: 20%;
+    padding: 20px;
+}
+
+aside{
+    background-color: aquamarine;
+    float: right;
+    width: 20%;
+    padding: 20px;
+}
+
+footer {
+    clear: both;
+}
+
+.main-content {
+    margin: 40px auto;
+}
+
+main img {
+    float: left;
+    margin: 0 20px 10 px 0;
+    width: 200px;
+}
