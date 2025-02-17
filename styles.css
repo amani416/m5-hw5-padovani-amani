@@ -14,18 +14,26 @@ header {
     border-bottom: 3px solid #e3b2ed;
 }
 
+.linebreak {
+    border-bottom: #463c4d;
+}
+
 .container {
     max-width: 900px;
     margin: 0 auto;
+    height: 100%;
 }
 
 h1{
     float: left;
     color: rgb(68, 62, 80);
+
 }
 
 span {
     background-color: rgb(237, 233, 237);
+    padding: 10px;
+    padding-bottom: 4px;
 }
 
 p{
@@ -57,7 +65,7 @@ main {
 }
 
 aside{
-    background-color: #cdacca;
+    background-color: #e8bff0;
     float: right;
     width: 20%;
     padding: 20px;
@@ -99,3 +107,4 @@ footer p {
     color: aliceblue;
     font-size: 14px;
 }
+
