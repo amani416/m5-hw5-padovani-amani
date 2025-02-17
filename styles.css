@@ -10,7 +10,7 @@ body {
 
 header {
     background: #5d4b69;
-    padding: 40px 0;
+    padding: 40px 40px 40px 0;
     border-bottom: 3px solid #e3b2ed;
 }
 
@@ -65,7 +65,7 @@ main {
 }
 
 aside{
-    background-color: #e8bff0;
+    background-color: #f6e3ff;
     float: right;
     width: 20%;
     padding: 20px;
